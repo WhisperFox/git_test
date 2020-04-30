@@ -1,2 +1,2 @@
 # git_test
-This is meant for testing git commands.
+This is Theguy's first git project! 
